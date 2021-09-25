@@ -1,4 +1,5 @@
 CS493 Cloud Development SP'21 Portfolio Project
+-----------------------------------------------
 By: Andre Ballesteros
 
 Final project entailed the creation of very own REST API, using GCP Datastore as the database and GCP to deploy the application.  Please read the documentation pdf for endpoints and further in depth information.
